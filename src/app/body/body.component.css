@@ -1,0 +1,25 @@
+.demo-card-wide.mdl-card {
+  width: 512px;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('../../images/welcome_card.jpg') center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+.demo-inner-center {
+    width: 70%;
+    margin: 0 auto;
+}
+.demo-margin-top {
+    margin-top: 50px;
+}
+.mdl-data-table {
+    white-space: normal !important;
+}
+
+.demo-inner-center-photos {
+    width: 100%;
+}
